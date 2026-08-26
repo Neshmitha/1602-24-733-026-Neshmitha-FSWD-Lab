@@ -17,7 +17,7 @@ This repository contains my work for the Full Stack Web Development (FSWD) cours
 - MongoDB
 
 ## Repository Structure
-
+```text
 FSWD/
 ├── Labs/
 ├── Assignments/
